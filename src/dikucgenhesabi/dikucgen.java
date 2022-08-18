@@ -8,17 +8,12 @@ public class dikucgen {
         System.out.print("a kenarını giriniz : ");
         int a = inp.nextInt();
 
-        System.out.print("b kenarını giriniz : " );
+        System.out.print("b kenarını giriniz : ");
         int b = inp.nextInt();
 
         System.out.println("Hipotenüs uzunluğu : ");
-        double c = Math.sqrt ((a * a ) + (b * b));
+        double c = Math.sqrt((a * a) + (b * b));
         System.out.print(c);
-
-
-
-
-
 
 
     }
