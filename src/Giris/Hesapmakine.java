@@ -2,7 +2,7 @@ package Giris;
 
 import java.util.Scanner;
 
-public class Deneme {
+public class Hesapmakine {
     public static void main(String[] args) {
         Scanner inp = new Scanner(System.in);
         System.out.print("İlk sayıyı giriniz : ");
