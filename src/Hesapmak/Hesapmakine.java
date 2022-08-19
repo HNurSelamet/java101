@@ -1,4 +1,4 @@
-package Giris;
+package Hesapmak;
 
 import java.util.Scanner;
 
